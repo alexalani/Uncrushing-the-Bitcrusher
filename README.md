@@ -1,2 +1,2 @@
-# SQGD
-The Simulated Quantum Gate Distortion prototype not only uses the quantum audio python package to encode and decode a digital audio signal but applies various simulated quantum gates before decoding. 
+# Uncrushing the Bitcrusher: The Simulated Quantum Gate Distortion Effects
+The Simulated Quantum Gate Distortion (SQGD) effects not only uses the quantum audio python package to encode and decode a digital audio signal but apply various unitary gates to create bitcrusher-like distortions of audio. These bitcrushers can be reversed by applying the inverse operations. (i.e. GHZ distortion when inverse GHZ distortion is added will cancel each other out)
